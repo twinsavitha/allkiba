@@ -1,2 +1,0 @@
-# allkiba
-kiba files - aws
