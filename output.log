@@ -1,0 +1,30 @@
+DEBUG  Missing Location : location of delivery not provided by P
+DEBUG  Missing Location : location of delivery not provided by A
+DEBUG  Missing Stock : phione-  {:name=>"R", :item=>"phione", :amount=>"3", :delivered=>"no", :comment=>"failure: item not present no delivery-two"}
+DEBUG  Missing Location : location of delivery not provided by S
+DEBUG  Missing Stock : phione-  {:name=>"C", :item=>"phione", :amount=>"3", :delivered=>"no", :comment=>"failure: item not present no delivery-two"}
+DEBUG  Missing Location : location of delivery not provided by D
+DEBUG  Missing Stock : phione-  {:name=>"U", :item=>"phione", :amount=>"3", :delivered=>"no", :comment=>"failure: item not present no delivery-two"}
+DEBUG  Missing Location : location of delivery not provided by V
+DEBUG  Missing Stock : phione-  {:name=>"F", :item=>"phione", :amount=>"3", :delivered=>"no", :comment=>"failure: item not present no delivery-two"}
+DEBUG  Missing Location : location of delivery not provided by G
+DEBUG  Missing Stock : phione-  {:name=>"X", :item=>"phione", :amount=>"3", :delivered=>"no", :comment=>"failure: item not present no delivery-two"}
+DEBUG  Missing Location : location of delivery not provided by Y
+DEBUG  Missing Stock : phione-  {:name=>"I", :item=>"phione", :amount=>"3", :delivered=>"no", :comment=>"failure: item not present no delivery-two"}
+DEBUG  Missing Location : location of delivery not provided by J
+DEBUG  Missing Location : location of delivery not provided by A
+DEBUG  Missing Location : location of delivery not provided by P
+DEBUG  Missing Stock : phione-  {:name=>"R", :item=>"phione", :amount=>"3", :delivered=>"no", :comment=>"failure: item not present no delivery-two"}
+DEBUG  Missing Location : location of delivery not provided by S
+DEBUG  Missing Stock : phione-  {:name=>"C", :item=>"phione", :amount=>"3", :delivered=>"no", :comment=>"failure: item not present no delivery-two"}
+DEBUG  Missing Location : location of delivery not provided by D
+DEBUG  Missing Stock : phione-  {:name=>"U", :item=>"phione", :amount=>"3", :delivered=>"no", :comment=>"failure: item not present no delivery-two"}
+DEBUG  Missing Location : location of delivery not provided by V
+DEBUG  Missing Stock : phione-  {:name=>"F", :item=>"phione", :amount=>"3", :delivered=>"no", :comment=>"failure: item not present no delivery-two"}
+DEBUG  Missing Stock : phione-  {:name=>"X", :item=>"phione", :amount=>"3", :delivered=>"no", :comment=>"failure: item not present no delivery-two"}
+DEBUG  Missing Location : location of delivery not provided by G
+DEBUG  Missing Location : location of delivery not provided by Y
+DEBUG  Missing Stock : phione-  {:name=>"I", :item=>"phione", :amount=>"3", :delivered=>"no", :comment=>"failure: item not present no delivery-two"}
+DEBUG  Missing Location : location of delivery not provided by J
+DEBUG  Missing Location : location of delivery not provided by B
+DEBUG  Missing Stock : cap-  {:name=>"D", :item=>"cap", :amount=>"2", :delivered=>"no", :comment=>"failure: item not present no delivery"}

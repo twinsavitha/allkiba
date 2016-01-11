@@ -1,0 +1,7 @@
+name;item;amount;delivered;comment
+"Mike";"mobile";10;yes;success delivered
+"A";"book";1;yes;failure: location not given but delivery
+"B";"book";1;no;failure: location not given and no delivery
+"C";"bag";2;yes;failure: item not present but delivery
+"D";"cap";2;no;failure: item not present no delivery
+"Emett";"pen";11;no;success deliver

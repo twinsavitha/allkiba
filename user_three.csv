@@ -1,0 +1,10 @@
+name;item;amount;delivered;comment
+"Mike";"mobile";10;yes;success delivered
+"a";"book";1;yes;failure: location not given
+"b";"bag";2;yes;failure: item not present
+"Emett";"pen";11;no;success deliver
+"c";"pencil";3;yes;failure: item not present
+"D";"pen";11;no;failure: location not given
+"Amy";"book";12;yes;success delivered
+"E";"cream";13;no;failure: location not given
+"Seth";"book";12;yes;success delivered
